@@ -34,7 +34,7 @@ const HomePage = () => {
                      src="/src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
                      alt="picture"
                   />
-                  <a href="">
+                  <a href="https://github.com/eherosos">
                      <p className="text-center font-bold text-white">
                         <u>My Github</u>
                      </p>
