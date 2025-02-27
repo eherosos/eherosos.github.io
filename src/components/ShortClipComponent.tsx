@@ -6,82 +6,82 @@ const links = [
       height="315"
       src="https://www.youtube.com/embed/IzGfAxEnJ6g?si=ak2qKs3H3RKSC4br"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/yqq3uyKU0QU?si=K_G6Wyn5HVPqIr31"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/FwUeRzEop7E?si=LQE9njossPv93t8v"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/sBeK_C0hOeU?si=TCQvTFNdrco87O8A"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/5m26tV8RJC0?si=wmBbuisHWvFmEchl"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/VRxHOjXV4eI?si=SadgqfJT-Lx4164q"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/XTRBar3r5H0?si=cxRlVPMgKCOz_5Ec"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/XRs5Kng2sYk?si=FNojAOvJIkHD8mGp"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
    <iframe
       height="315"
       src="https://www.youtube.com/embed/Ztfpn3yldlI?si=VGTA__pjRfwgnJ7d"
       title="YouTube video player"
-      frameborder="0"
+      frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
+      referrerPolicy="strict-origin-when-cross-origin"
+      allowFullScreen
    ></iframe>,
 ];
 
