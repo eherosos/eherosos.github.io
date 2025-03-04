@@ -31,7 +31,8 @@ const HomePage = () => {
                <div className="flex flex-col justify-center order-1 sm:order-2">
                   <img
                      className="rounded-full"
-                     src="/src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
+                     // src="@/src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
+                     src="../../src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
                      alt="picture"
                   />
                   <a href="">
