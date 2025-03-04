@@ -1,5 +1,7 @@
-import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
+// import { Swiper, SwiperSlide } from "swiper/react";
+// import "swiper/css";
+
+import Marquee from "react-fast-marquee";
 
 const imgs = [
    "/src/assets/Artie Thumnail 2023-08-04 3.png",
@@ -20,32 +22,18 @@ const ThumpnailComponent = () => {
          <div className="">
             <p className="my-3 text-2xl font-semibold text-center sm:text-start">Graphic Project</p>
             <div className="not-sm:hidden">
-               <Swiper
-                  spaceBetween={50}
-                  slidesPerView={3.5}
-                  onSlideChange={() => console.log("slide change")}
-                  onSwiper={(swiper) => console.log(swiper)}
-               >
+               <Marquee>
                   {imgs.map((img, index) => (
-                     <SwiperSlide key={index}>
-                        <img src={img} alt="thumbnail" />
-                     </SwiperSlide>
+                     <img className="mx-2 h-[150px]" key={index} src={img} alt="thumbnail" />
                   ))}
-               </Swiper>
+               </Marquee>
             </div>
             <div className="sm:hidden">
-               <Swiper
-                  spaceBetween={50}
-                  slidesPerView={1.5}
-                  onSlideChange={() => console.log("slide change")}
-                  onSwiper={(swiper) => console.log(swiper)}
-               >
+               <Marquee>
                   {imgs.map((img, index) => (
-                     <SwiperSlide key={index}>
-                        <img src={img} alt="thumbnail" />
-                     </SwiperSlide>
+                     <img className="mx-2 h-[200px]" key={index} src={img} alt="thumbnail" />
                   ))}
-               </Swiper>
+               </Marquee>
             </div>
             <div className="mt-3"></div>
             <a
