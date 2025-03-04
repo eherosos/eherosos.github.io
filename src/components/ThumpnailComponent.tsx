@@ -4,15 +4,15 @@
 import Marquee from "react-fast-marquee";
 
 const imgs = [
-   "/src/assets/Artie Thumnail 2023-08-04 3.png",
-   "/src/assets/Artie Thumnail 2023-08-16.png",
-   "/src/assets/Artie Thumnail 2023-09-23.png",
-   "/src/assets/Artie Thumnail 2023-11-21.png",
-   "/src/assets/Artie Thumnail 2024-02-19 1.png",
-   "/src/assets/Jiah Thumnail 2023-08-12 3.png",
-   "/src/assets/Jiah Thumnail 2023-09-20 5.png",
-   "/src/assets/Jiah Thumnail 2023-10-30 2-2.png",
-   "/src/assets/Phelita Thumnail 2024-01-02.png",
+   "/Artie Thumnail 2023-08-04 3.png",
+   "/Artie Thumnail 2023-08-16.png",
+   "/Artie Thumnail 2023-09-23.png",
+   "/Artie Thumnail 2023-11-21.png",
+   "/Artie Thumnail 2024-02-19 1.png",
+   "/Jiah Thumnail 2023-08-12 3.png",
+   "/Jiah Thumnail 2023-09-20 5.png",
+   "/Jiah Thumnail 2023-10-30 2-2.png",
+   "/Phelita Thumnail 2024-01-02.png",
 ];
 
 const ThumpnailComponent = () => {

@@ -32,7 +32,7 @@ const HomePage = () => {
                   <img
                      className="rounded-full"
                      // src="@/src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
-                     src="../../src/assets/451311549_2213494752358625_2499551800465362640_n.jpg"
+                     src="/451311549_2213494752358625_2499551800465362640_n.jpg"
                      alt="picture"
                   />
                   <a href="">
